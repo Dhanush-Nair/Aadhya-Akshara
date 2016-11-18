@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                tools:context=".ui.PronunciationFragment"
+                android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/fragment_pronunciation_nested_cardview"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        card_view:cardCornerRadius="6dp"
+        card_view:cardElevation="@dimen/card_elevation_flat"
+        android:layout_centerInParent="true">
+
+        <View
+            android:id="@+id/fragment_pronunciation_nested_card_vertical_line"
+            android:layout_width="6dp"
+            android:layout_height="fill_parent"
+            android:background="@color/colorPrimary"/>
+
+        <LinearLayout
+            android:id="@+id/activity_main_card_item_linearlayout_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorSecondary"
+                android:textSize="16sp"
+                android:text="@string/pronunciation_card_prompt"
+                android:id="@+id/fragment_pronunciation_nested_prompt_textview"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"/>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="16sp"
+                android:id="@+id/fragment_pronunciation_nested_phrase_textview"
+                android:background="@color/pronunciation_textview_background"
+                tools:text="A new club opened in the Meatpacking district. Do you want to go out with us on Friday night?"
+                android:layout_marginRight="36dp"
+                android:layout_marginLeft="36dp"
+                android:gravity="center"
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
+                android:paddingLeft="6dp"
+                android:paddingRight="6dp"
+                android:elegantTextHeight="false"
+                android:maxHeight="96dp"
+                android:nestedScrollingEnabled="false"
+                android:autoText="false"
+                android:textIsSelectable="false"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/leap_microphone_two_icon_white"
+                android:id="@+id/fragment_pronunciation_nested_mic_imagebutton"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.10"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/circle_pronunciation_button_background"
+                android:adjustViewBounds="true"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <LinearLayout
+        android:id="@+id/fragment_pronunciation_nested_button_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/fragment_pronunciation_nested_cardview"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/fragment_quiz_nested_button_container_margin_top">
+
+
+        <Button
+            android:id="@+id/fragment_pronunciation_nested_previous_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fragment_pronunciation_nested_previous_button"
+            android:background="@drawable/rounded_button_dark"
+            android:textColor="@android:color/white"
+            android:minHeight="48dp"
+            android:layout_marginRight="@dimen/fragment_quiz_nested_button_left_right_margin"
+            android:minWidth="124dp"
+            android:textSize="12sp"/>
+
+        <Button
+            android:id="@+id/fragment_pronunciation_nested_next_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fragment_pronunciation_nested_next_button"
+            android:background="@drawable/rounded_button_dark"
+            android:textColor="@android:color/white"
+            android:minHeight="48dp"
+            android:layout_marginLeft="@dimen/fragment_quiz_nested_button_left_right_margin"
+            android:minWidth="124dp"
+            android:textSize="12sp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

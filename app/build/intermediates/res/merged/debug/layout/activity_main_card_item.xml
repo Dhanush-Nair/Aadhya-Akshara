@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:card_view="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              xmlns:tools="http://schemas.android.com/tools">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/activity_main_card_item_cardview"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_main_card_item_layout_height"
+        android:layout_marginTop="@dimen/activity_main_card_item_marginTop"
+        android:layout_marginBottom="@dimen/activity_main_card_item_marginBottom"
+        card_view:cardCornerRadius="@dimen/activity_main_card_item_cardCornerRadius"
+        card_view:cardElevation="@dimen/card_elevation_flat">
+
+        <View
+            android:id="@+id/activity_main_card_vertical_line"
+            android:layout_width="@dimen/activity_main_card_item_vertical_line_layout_width"
+            android:layout_height="fill_parent"
+            android:background="@color/colorPrimary"/>
+
+        <LinearLayout
+            android:id="@+id/activity_main_card_item_linearlayout_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:weightSum="1">
+
+            <ImageView
+                android:id="@+id/activity_main_card_item_unit_icon"
+                android:layout_width="@dimen/activity_main_card_item_unit_icon_layout_width"
+                android:layout_height="@dimen/activity_main_card_item_unit_icon_layout_height"
+                android:src="@drawable/leap_alphabet_icon"
+                />
+
+            <TextView
+                android:id="@+id/activity_main_card_item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                tools:text="Learn The Alphabet"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="@dimen/activity_main_card_item_title_text"/>
+
+            <TextView
+                android:id="@+id/activity_main_card_item_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="@dimen/activity_main_card_item_description_paddingBottom"
+                android:paddingTop="@dimen/activity_main_card_item_description_paddingTop"
+                tools:text="Learn The Basics of the English Alphabet"
+                android:textColor="@color/textColorSecondary"
+                android:textSize="@dimen/activity_main_card_item_description_text"/>
+
+            <ImageView
+                android:id="@+id/activity_main_card_item_arrow_icon"
+                android:layout_width="@dimen/activity_main_card_item_arrow_icon_layout_width"
+                android:layout_height="@dimen/activity_main_card_item_arrow_icon_layout_height"
+                android:src="@drawable/leap_arrow_icon_green"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+
+
+
+
+

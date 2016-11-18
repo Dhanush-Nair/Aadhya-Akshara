@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:card_view="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/fragment_vocabwords_list_cardview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/fragment_recyclerview_list_item_margin_bottom"
+        android:orientation="vertical"
+        card_view:cardCornerRadius="0dp"
+        card_view:cardElevation="0dp">
+
+
+        <RelativeLayout
+            android:id="@+id/fragment_vocabwords_list_row_relativelayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/fragment_relativelayout_padding_bottom"
+            android:paddingLeft="@dimen/fragment_relativelayout_padding_left"
+            android:paddingRight="@dimen/fragment_relativelayout_padding_right"
+            android:paddingTop="@dimen/fragment_relativelayout_padding_top">
+
+            <TextView
+                android:id="@+id/fragment_vocabwords_list_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="apple"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="@dimen/primary_text"
+                android:layout_alignParentLeft="true"
+                android:layout_toRightOf="@+id/fragment_vocabwords_list_checkbox"/>
+
+            <TextView
+                android:id="@+id/fragment_vocabwords_list_definition_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="pomme"
+                android:textColor="@color/textColorSecondary"
+                android:textSize="@dimen/secondary_grey_text"
+                android:layout_below="@+id/fragment_vocabwords_list_textview"/>
+
+            <CheckBox
+                android:id="@+id/fragment_vocabwords_list_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/checkbox_button_tint"
+                android:checked="false"
+                android:clickable="false"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"/>
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.leapsoftware.leap"
+    android:versionCode="4"
+    android:versionName="1.0.3" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.leapsoftware.leap.application.LeapApplication"
+        android:allowBackup="true"
+        android:configChanges="locale"
+        android:icon="@mipmap/leap_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.leapsoftware.leap.ui.MainActivity"
+            android:configChanges="locale|layoutDirection"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.leapsoftware.leap.ui.AlphabetActivity"
+            android:label="@string/title_activity_lesson_choices"
+            android:parentActivityName="com.leapsoftware.leap.ui.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.leapsoftware.leap.ui.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.leapsoftware.leap.ui.VocabularyLessonChoicesActivity"
+            android:label="@string/title_activity_vocabulary_lesson_choices"
+            android:parentActivityName="com.leapsoftware.leap.ui.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.leapsoftware.leap.ui.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.leapsoftware.leap.ui.VocabularyLessonActivity"
+            android:label="@string/title_activity_vocabulary_lesson"
+            android:parentActivityName="com.leapsoftware.leap.ui.VocabularyLessonChoicesActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.leapsoftware.leap.ui.VocabularyLessonChoicesActivity" />
+        </activity>
+        <activity
+            android:name="com.leapsoftware.leap.ui.HandwritingActivity"
+            android:label="@string/title_activity_handwriting"
+            android:parentActivityName="com.leapsoftware.leap.ui.AlphabetActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.leapsoftware.leap.ui.AlphabetActivity" />
+        </activity>
+        <activity
+            android:name="com.leapsoftware.leap.ui.StartupWizardActivity"
+            android:label="@string/title_activity_startup_wizard"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.leapsoftware.leap.ui.SelectLanguageActivity"
+            android:label="@string/title_activity_select_language"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.leapsoftware.leap.ui.FirstActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.leapsoftware.leap.ui.YoutubeVideos" />
+    </application>
+
+</manifest>

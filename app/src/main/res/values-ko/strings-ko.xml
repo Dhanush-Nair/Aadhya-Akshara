@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--PronunciationActivity Snackbars-->
+    <string name="confidence_great">잘하셨어요!</string>
+    <string name="confidence_close">비슷했어요. 다시 시도해보세요.</string>
+    <string name="confidence_fail">안타깝네요. 오답입니다.</string>
+
+    <!--Quiz Fragment-->
+    <string name="quiz_editText_hint">답을 입력하세요.</string>
+    <string name="quiz_not_sure_button">모르겠어요.</string>
+    <string name="quiz_incorrect_answer_dialog_message">"당신의 답: %1$s"</string>
+    <string name="quiz_correct_answer_dialog_message">"올바른 답: %1$s"</string>
+    <string name="quiz_incorrect_answer_title">틀린 답</string>
+    <string name="quiz_blank_answer_dialog_message">답을 입력하세요.</string>
+    <string name="quiz_blank_answer_dialog_title">이런!</string>
+    <string name="quiz_not_sure_try_again_message">다시 시도해주세요.</string>
+    <string name="quiz_not_sure_dialog_title">힌트가 필요하세요?</string>
+    <string name="quiz_restart_button">다시 시작하기</string>
+    <string name="quiz_thats_what_I_meant">그게 제가 의미했던 거에요.</string>
+    <string name="quiz_exercise_high_score_equals">"최고점 = %1$s"</string>
+    <string name="quiz_nested_fragment_question_number">%2$d개중 %1$d번 문제</string>
+
+    <!--Pronunciation Nested Fragment Card -->
+    <string name="pronunciation_card_prompt">"말하세요:"</string>
+    <!--Pronunciation Nested Fragment - Google Voice Dialog Box-->
+    <string name="pronunciation_google_voice_dialog_box">"말하세요: %1$s"</string>
+
+    <!--Alphabet Activity-->
+    <string name="alphabet_handwriting_choices_fragment_title">Hand Writting</string>
+    <string name="alphabet_list_fragment_title">Pronounciation</string>
+    <string name="alphabet_card_fragment_title">플래시카드</string>
+    <string name="alphabet_activity_title">4-5 Years</string>
+
+    <!--Reading Fragment-->
+    <string name="reading_fragment_tab_english_dialog_title">영어</string>
+    <string name="reading_fragment_tab_translated_dialog_title">한국어</string>
+
+    <!-- Vocabulary Words Fragment -->
+    <string name="vocabWordsFragment_tab_list_title">목록</string>
+    <string name="vocabWordsFragment_tab_flashcards_title">플래시카드</string>
+
+    <!-- Vocabulary Lesson Main Content -->
+    <string name="activity_exercise_item_button_title">시작하기</string>
+
+    <!-- Alert Dialog Boxes -->
+    <string name="exercise_complete_alert_dialog_title">멋져요!</string>
+    <string name="exercise_complete_alert_dialog_message">당신은 이 연습을 끝내셨어요. 다음 단계로 넘어갈 차례에요.</string>
+    <string name="lesson_complete_alert_dialog_title">레슨 완료</string>
+    <string name="lesson_complete_alert_dialog_message">잘하셨어요! 당신은 이 레슨을 끝내셨어요.</string>
+    <string name="quiz_exercise_complete_alert_dialog_message">당신은 퀴즈를 이 점수로 끝내셨어요.  %1$s.</string>
+
+    <!-- Startup Wizard -->
+    <string name="activity_startup_wizard_toolbar_title">Startup Wizard</string>
+    <string name="startup_wizard_alphabet_description">알파벳 수업은 각 문자의 소리를 알려주는 수업이에요. 국제 통용의 음성 알파벳과 음역은 플래시카드 뒷면에 제공됩니다.</string>
+    <string name="startup_wizard_vocabulary_lesson_description">어휘 수업은 네 파트로 나뉘어져 있습니다. 어휘, 발음, 읽기, 퀴즈</string>
+    <string name="startup_wizard_vocab_words_description">목록과 플래시카드를 이용하여 어휘의 의미를 암기하세요.</string>
+    <string name="startup_wizard_pronunciation_description">구글이 당신의 발음이 맞는지, 근접한지, 혹은 틀렸는지를 평가해줄거에요.</string>
+    <string name="startup_wizard_reading_description">읽기 연습을 통해 당신의 이해도를 테스트하세요.</string>
+    <string name="startup_wizard_quiz_description">마지막으로, 퀴즈를 통해 당신의 지식을 테스트하세요.</string>
+
+    <!-- Select Language Activity -->
+    <string name="startup_wizard_select_language_prompt">모국어를 선택하세요.</string>
+    <string name="activity_select_language_toolbar_title">언어 선택하기</string>
+
+    <!-- Nested Exercise Fragment Buttons -->
+    <string name="fragment_pronunciation_nested_next_button">다음</string>
+    <string name="fragment_pronunciation_nested_previous_button">이전</string>
+    <string name="finish_button">마침</string>
+    <string name="fragment_handwriting_erase_button">지우기</string>
+    <string name="activity_handwriting_toolbar_title">Hand Writting</string>
+
+    <!-- Vocabulary Lesson Choices -->
+    <string name="activity_vocabularylessonchoices_please_purchase_premium_snackbar">이 수업에 접근하려면 프리미엄 업그레이드를 구입해주세요.</string>
+
+    <!-- Settings Menu -->
+    <string name="settings_menu_startup_wizard">튜토리얼</string>
+    <string name="settings_menu_language">언어</string>
+    <string name="settings_menu_purchase_premium">프리미엄 구입하기</string>
+
+    <string name="main_activity_premium_upgrade_alert_message">Leap Premium을 업그레이드 해주셔서 감사합니다.</string>
+    <string name="main_activity_iab_fail_message">이런. 구매에 오류가 있었네요. 다시 시도해주세요.</string>
+
+
+
+</resources>

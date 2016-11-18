@@ -1,0 +1,7 @@
+#Thu Nov 17 16:06:46 IST 2016
+base.0=C\:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_12b86405efcdbc3fc67153dae85cca1195d13aec
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ccfe511d59ead7a50a47fdc22d470d7790d1ee19\\classes.dex
+base.1=C\:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ccfe511d59ead7a50a47fdc22d470d7790d1ee19
+file.0=C\:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_12b86405efcdbc3fc67153dae85cca1195d13aec\\classes.dex

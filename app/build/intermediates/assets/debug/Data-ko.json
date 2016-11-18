@@ -1,0 +1,1687 @@
+{
+  "Data": [
+    {
+      "Letters": [
+        {
+          "uppercase": "A",
+          "lowercase": "a",
+          "upperAndLower": "Aa",
+          "audio_file_name": "ipa_a",
+          "ipas": [
+            {
+              "ipa": "/ɑ/",
+              "examples": [
+                "apple",
+                "cat",
+                "black"
+              ]
+            },
+            {
+              "ipa": "/ə/",
+              "examples": [
+                "ə one",
+                "ə two",
+                "ə three"
+              ]
+            },
+            {
+              "ipa": "/æ/",
+              "examples": [
+                "æ one",
+                "æ two",
+                "æ three"
+              ]
+            },
+            {
+              "ipa": "/e/",
+              "examples": [
+                "e one",
+                "e two",
+                "e three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅏ, ㅐ"
+          ]
+        },
+        {
+          "uppercase": "B",
+          "lowercase": "b",
+          "upperAndLower": "Bb",
+          "audio_file_name": "ipa_b",
+          "ipas": [
+            {
+              "ipa": "/b/",
+              "examples": [
+                "blue",
+                "bicycle",
+                "breakfast"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅂ"
+          ]
+        },
+        {
+          "uppercase": "C",
+          "lowercase": "c",
+          "upperAndLower": "Cc",
+          "audio_file_name": "ipa_c",
+          "ipas": [
+            {
+              "ipa": "/k/",
+              "examples": [
+                "cat",
+                "car",
+                "color"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅋ, ㅆ"
+          ]
+        },
+        {
+          "uppercase": "D",
+          "lowercase": "d",
+          "upperAndLower": "Dd",
+          "audio_file_name": "ipa_d",
+          "ipas": [
+            {
+              "ipa": "/d/",
+              "examples": [
+                "dad",
+                "dinner",
+                "drink"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㄷ"
+          ]
+        },
+        {
+          "uppercase": "E",
+          "lowercase": "e",
+          "upperAndLower": "Ee",
+          "audio_file_name": "ipa_e",
+          "ipas": [
+            {
+              "ipa": "/ɛ/",
+              "examples": [
+                "ɛ",
+                "ɛ ex two",
+                "ɛ ex three"
+              ]
+            },
+            {
+              "ipa": "/i/",
+              "examples": [
+                "i",
+                "i ex two",
+                "i ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅔ, ㅣ"
+          ]
+        },
+        {
+          "uppercase": "F",
+          "lowercase": "f",
+          "upperAndLower": "Ff",
+          "audio_file_name": "ipa_f_ph",
+          "ipas": [
+            {
+              "ipa": "/f/",
+              "examples": [
+                "food",
+                "five",
+                "fork"
+              ]
+            }
+          ],
+          "transliterations": [
+            "(입술을 살짝 문 상태에서 나는 바람소리)"
+          ]
+        },
+        {
+          "uppercase": "G",
+          "lowercase": "g",
+          "upperAndLower": "Gg",
+          "audio_file_name": "ipa_g",
+          "ipas": [
+            {
+              "ipa": "/g/",
+              "examples": [
+                "good",
+                "girl",
+                "guitar"
+              ]
+            },
+            {
+              "ipa": "/d͡ʒ/",
+              "examples": [
+                "dj ex one",
+                "dj ex two",
+                "dj ex three"
+              ]
+            },
+            {
+              "ipa": "/ʒ/",
+              "examples": [
+                "ʒ ex one",
+                "ʒ ex two",
+                "ʒ ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㄱ"
+          ]
+        },
+        {
+          "uppercase": "H",
+          "lowercase": "h",
+          "upperAndLower": "Hh",
+          "audio_file_name": "ipa_h",
+          "ipas": [
+            {
+              "ipa": "/h/",
+              "examples": [
+                "hi",
+                "house",
+                "holiday"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅎ"
+          ]
+        },
+        {
+          "uppercase": "I",
+          "lowercase": "i",
+          "upperAndLower": "Ii",
+          "audio_file_name": "ipa_i",
+          "ipas": [
+            {
+              "ipa": "/ɪ/",
+              "examples": [
+                "/ɪ/ ex one",
+                "/ɪ/ ex two",
+                "/ɪ/ ex three"
+              ]
+            },
+            {
+              "ipa": "/aɪ/",
+              "examples": [
+                "/aɪ/ ex one",
+                "/aɪ/ ex two",
+                "/aɪ/ ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅣ"
+          ]
+        },
+        {
+          "uppercase": "J",
+          "lowercase": "j",
+          "upperAndLower": "Jj",
+          "audio_file_name": "ipa_j",
+          "ipas": [
+            {
+              "ipa": "/d͡ʒ/",
+              "examples": [
+                "jacket",
+                "juice",
+                "jeans"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅈ"
+          ]
+        },
+        {
+          "uppercase": "K",
+          "lowercase": "k",
+          "upperAndLower": "Kk",
+          "audio_file_name": "ipa_k",
+          "ipas": [
+            {
+              "ipa": "/k/",
+              "examples": [
+                "key",
+                "keyboard",
+                "kiss"
+              ]
+            }
+          ],
+          "transliterations": [
+            "’ㅋ’ 혹은 (s 바로 뒤에 올때는) ‘ㄲ’"
+          ]
+        },
+        {
+          "uppercase": "L",
+          "lowercase": "l",
+          "upperAndLower": "Ll",
+          "audio_file_name": "ipa_l",
+          "ipas": [
+            {
+              "ipa": "/l/",
+              "examples": [
+                "lunch",
+                "love",
+                "left"
+              ]
+            }
+          ],
+          "transliterations": [
+            "(혀를 앞니 뒤에 붙이고) ’ㄹ’"
+          ]
+        },
+        {
+          "uppercase": "M",
+          "lowercase": "m",
+          "upperAndLower": "Mm",
+          "audio_file_name": "ipa_m",
+          "ipas": [
+            {
+              "ipa": "/m/",
+              "examples": [
+                "mom",
+                "morning",
+                "music"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅁ"
+          ]
+        },
+        {
+          "uppercase": "N",
+          "lowercase": "n",
+          "upperAndLower": "Nn",
+          "audio_file_name": "ipa_n",
+          "ipas": [
+            {
+              "ipa": "/n/",
+              "examples": [
+                "nine",
+                "night",
+                "new"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㄴ"
+          ]
+        },
+        {
+          "uppercase": "O",
+          "lowercase": "o",
+          "upperAndLower": "Oo",
+          "audio_file_name": "ipa_o",
+          "ipas": [
+            {
+              "ipa": "/o/",
+              "examples": [
+                "o ex one",
+                "o ex two",
+                "o ex three"
+              ]
+            },
+            {
+              "ipa": "/ɒ/",
+              "examples": [
+                "lot",
+                "pot",
+                "o ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅗ"
+          ]
+        },
+        {
+          "uppercase": "P",
+          "lowercase": "p",
+          "upperAndLower": "Pp",
+          "audio_file_name": "ipa_p",
+          "ipas": [
+            {
+              "ipa": "/p/",
+              "examples": [
+                "pen",
+                "spin",
+                "tip"
+              ]
+            }
+          ],
+          "transliterations": [
+            "’ㅍ’ 혹은 (s 바로 뒤에 올 경우) ‘ㅃ’"
+          ]
+        },
+        {
+          "uppercase": "Q",
+          "lowercase": "q",
+          "upperAndLower": "Qq",
+          "audio_file_name": "ipa_q_ck",
+          "ipas": [
+            {
+              "ipa": "/k/",
+              "examples": [
+                "question",
+                "quiet",
+                "quiz"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅋ"
+          ]
+        },
+        {
+          "uppercase": "R",
+          "lowercase": "r",
+          "upperAndLower": "Rr",
+          "audio_file_name": "ipa_r",
+          "ipas": [
+            {
+              "ipa": "/r/",
+              "examples": [
+                "right",
+                "red",
+                "rice"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㄹ (l과 다른 점은 혀가 닿지 않음)"
+          ]
+        },
+        {
+          "uppercase": "S",
+          "lowercase": "s",
+          "upperAndLower": "Ss",
+          "audio_file_name": "ipa_s",
+          "ipas": [
+            {
+              "ipa": "/s/",
+              "examples": [
+                "snow",
+                "sister",
+                "sock"
+              ]
+            }
+          ],
+          "transliterations": [
+            "(바람 새는 소리) ‘ㅅ’"
+          ]
+        },
+        {
+          "uppercase": "T",
+          "lowercase": "t",
+          "upperAndLower": "Tt",
+          "audio_file_name": "ipa_t",
+          "ipas": [
+            {
+              "ipa": "/t/",
+              "examples": [
+                "two",
+                "table",
+                "telephone"
+              ]
+            }
+          ],
+          "transliterations": [
+            "’ㅌ’ 혹은 (s 바로 뒤에 쓰일 경우) ‘ㄸ’"
+          ]
+        },
+        {
+          "uppercase": "U",
+          "lowercase": "u",
+          "upperAndLower": "Uu",
+          "audio_file_name": "ipa_u",
+          "ipas": [
+            {
+              "ipa": "/uː/",
+              "examples": [
+                "u ex one",
+                "u ex two",
+                "u ex three"
+              ]
+            },
+            {
+              "ipa": "/ʊ/",
+              "examples": [
+                "u ex one",
+                "u ex two",
+                "u ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅜ, ㅠ"
+          ]
+        },
+        {
+          "uppercase": "V",
+          "lowercase": "v",
+          "upperAndLower": "Vv",
+          "audio_file_name": "ipa_v",
+          "ipas": [
+            {
+              "ipa": "/v/",
+              "examples": [
+                "vegetable",
+                "vending machine",
+                "stove"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅂ (아랫입술을 살짝 물고 내는 진동음)"
+          ]
+        },
+        {
+          "uppercase": "W",
+          "lowercase": "w",
+          "upperAndLower": "Ww",
+          "audio_file_name": "ipa_w",
+          "ipas": [
+            {
+              "ipa": "/w/",
+              "examples": [
+                "water",
+                "when",
+                "white"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅇ (워, 와의 중간음 정도)"
+          ]
+        },
+        {
+          "uppercase": "X",
+          "lowercase": "x",
+          "upperAndLower": "Xx",
+          "audio_file_name": "ipa_x",
+          "ipas": [
+            {
+              "ipa": "/x/",
+              "examples": [
+                "six",
+                "expensive",
+                "taxi"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅅ 혹은 ㅈ"
+          ]
+        },
+        {
+          "uppercase": "Y",
+          "lowercase": "y",
+          "upperAndLower": "Yy",
+          "audio_file_name": "ipa_y",
+          "ipas": [
+            {
+              "ipa": "/j/",
+              "examples": [
+                "y ex one",
+                "y ex two",
+                "y ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅣ"
+          ]
+        },
+        {
+          "uppercase": "Z",
+          "lowercase": "z",
+          "upperAndLower": "Zz",
+          "audio_file_name": "ipa_z",
+          "ipas": [
+            {
+              "ipa": "/z/",
+              "examples": [
+                "z ex one",
+                "z ex two",
+                "z ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅈ (혀와 입천장 사이로 나는 진동음)"
+          ]
+        },
+        {
+          "uppercase": "th",
+          "lowercase": "th",
+          "upperAndLower": "th",
+          "audio_file_name": "ipa_th",
+          "ipas": [
+            {
+              "ipa": "/θ/",
+              "examples": [
+                "θ ex one",
+                "θ ex two",
+                "θ ex three"
+              ]
+            },
+            {
+              "ipa": "/ð/",
+              "examples": [
+                "ð ex one",
+                "ð ex two",
+                "ð ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "(혀를 살짝 문 상태로 내는 바람소리)"
+          ]
+        },
+        {
+          "uppercase": "sh",
+          "lowercase": "sh",
+          "upperAndLower": "sh",
+          "audio_file_name": "ipa_sh",
+          "ipas": [
+            {
+              "ipa": "/ʃ/",
+              "examples": [
+                "ʃ ex one",
+                "ʃ ex two",
+                "ʃ ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅅ (s보다 안쪽에서 나는 바람소리)"
+          ]
+        },
+        {
+          "uppercase": "ch",
+          "lowercase": "ch",
+          "upperAndLower": "ch",
+          "audio_file_name": "ipa_ch",
+          "ipas": [
+            {
+              "ipa": "/t͡ʃ/",
+              "examples": [
+                "ch ex one",
+                "ch ex two",
+                "ch ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅊ"
+          ]
+        },
+        {
+          "uppercase": "ck",
+          "lowercase": "ck",
+          "upperAndLower": "ck",
+          "audio_file_name": "ipa_q_ck",
+          "ipas": [
+            {
+              "ipa": "/k/",
+              "examples": [
+                "ck ex one",
+                "ck ex two",
+                "ck ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "ㅋ (소리를 내기보다는 한글의 받침으로 생각)"
+          ]
+        },
+        {
+          "uppercase": "ph",
+          "lowercase": "ph",
+          "upperAndLower": "ph",
+          "audio_file_name": "ipa_f_ph",
+          "ipas": [
+            {
+              "ipa": "/f/",
+              "examples": [
+                "ph ex one",
+                "ph ex two",
+                "ph ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "(입술을 살짝 문 상태에서 나는 바람소리)"
+          ]
+        },
+        {
+          "uppercase": "ing",
+          "lowercase": "ing",
+          "upperAndLower": "ing",
+          "audio_file_name": "ipa_ing",
+          "ipas": [
+            {
+              "ipa": "/ŋ/",
+              "examples": [
+                "ing ex one",
+                "ing ex two",
+                "ing ex three"
+              ]
+            }
+          ],
+          "transliterations": [
+            "잉"
+          ]
+        }
+      ]
+    },
+    {
+      "units": [
+        {
+          "unitname": "Unit 1: 기초영어",
+          "unitdescription": "초보자 단계 영어 배우기",
+          "lessons": [
+            {
+              "lesson_name_english": "Greetings and Nationalities",
+              "lesson_name_translated": "인사와 국적",
+              "vocab_map": {
+                "hi": "안녕",
+                "Hello": "안녕",
+                "hey": "안녕",
+                "name": "이름",
+                "how are you": "오늘 어때?",
+                "my": "나의, 내, 제",
+                "your": "너의, 당신의",
+                "to meet": "만나다",
+                "nice to meet you": "만나서 반갑습니다",
+                "is": "은, 는",
+                "are": "은, 는",
+                "yes": "응, 네",
+                "no": "아니, 아니요",
+                "from": "~부터, ~에서",
+                "United States": "미국",
+                "American": "미국의, 미국인",
+                "United Kingdom": "영국",
+                "British": "영국의, 영국인",
+                "Canada": "캐나다",
+                "Canadian": "캐나다의, 캐나다인",
+                "Korea": "한국, 대한민국",
+                "Korean": "한국의, 한국어, 한국인",
+                "Japan": "일본",
+                "Japanese": "일본의, 일본어, 일본인",
+                "Brazil": "브라질",
+                "Brazilian": "브라질의, 브라질인",
+                "Saudi Arabia": "사우디아라비아",
+                "Saudi Arabian": "사우디아라비아의, 사우디아라비아인"
+              },
+              "dialog_map": {
+                "John: Hi, my name is John.": "존: 안녕하세요. 제 이름은 존 입니다.",
+                "Mike: Hey, John. My name is Mike. Nice to meet you.": "마이크: 안녕하세요 존씨. 제 이름은 마이크 입니다. 만나서 반갑습니다.",
+                "John: Nice to meet you, too.": "존: 저도 만나서 반갑습니다.",
+                "Mike: Are you American?": "마이크: 당신은 미국인입니까?",
+                "John: No, I am Canadian. Are you from the United States?": "존: 아니요, 전 캐나다인입니다. 당신은 미국에서 오셨나요?",
+                "Mike: Yes, I am American.": "마이크: 네, 저는 미국인입니다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Professions",
+              "lesson_name_translated": "직업",
+              "vocab_map": {
+                "job": "직업",
+                "profession": "직업, 전문직",
+                "teacher": "선생님",
+                "doctor": "의사",
+                "lawyer": "변호사",
+                "secretary": "비서",
+                "student": "학생",
+                "chef": "요리사",
+                "waiter": "남자 웨이터",
+                "waitress": "웨이트리스 (여자 웨이터)",
+                "customer service representative": "고객 서비스 상담원",
+                "consultant": "컨설턴트, 상담사",
+                "manager": "매니저, 경영자",
+                "financial analyst": "재무 분석가, 금융 전문가, 금융 애널리스트",
+                "marketing manager": "마케팅 책임자, 영업부장",
+                "school": "학교",
+                "university": "대학교",
+                "college": "대학교, 단과대학",
+                "to study": "공부하다",
+                "business": "사업",
+                "restaurant": "레스토랑, 식당",
+                "bank": "은행",
+                "hospital": "병원",
+                "what": "무엇",
+                "where": "어디",
+                "to do": "하다",
+                "to work": "일하다",
+                "at": "~에 (장소, 시점)",
+                "to": "~로, ~쪽에, ~까지",
+                "oh": "오 (감탄사)",
+                "not": "~아니다 (부정)"
+              },
+              "dialog_map": {
+                "John: Mike, what do you do?": "존: 마이크씨, 무슨 일을 하시나요?",
+                "Mike: I am a financial analyst at a bank. Where do you work?": "마이크: 저는 금융 애널리스트입니다. 당신은 어디서 일을 하시나요?",
+                "John: Oh, I am not working. I am a college student.": "존: 아, 저는 일을 하고 있지 않습니다. 저는 대학생입니다.",
+                "Mike: Where do you go to school?": "마이크: 어디로 학교를 다니시나요?",
+                "John: I go to New York University. I am studying Business.": "존: 저는 뉴욕대학교에 다닙니다. 저는 경영을 공부합니다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Transportation",
+              "lesson_name_translated": "교통",
+              "vocab_map": {
+                "to go": "가다",
+                "to come": "오다",
+                "to return": "돌아오다",
+                "car": "자동차",
+                "subway": "지하철",
+                "bus": "버스",
+                "walk": "걷다",
+                "commute": "통근하다",
+                "to commute": "통근하다",
+                "to drive": "운전하다",
+                "to take": "타다",
+                "to wait": "기다리다",
+                "to wait for the train": "기차를 기다리다",
+                "to get on the train": "기차를 타다, 기차에 올라타다",
+                "to get off the train": "기차에서 내리다",
+                "how long": "얼마나 오래",
+                "about": "~정도",
+                "it": "이것, (가주어로 해석하지 않는 경우 it을 쓴다)",
+                "Brooklyn": "브룩클린",
+                "Manhattan": "맨하튼",
+                "the": "그",
+                "a": "어떤, (처음 언급되는 단수형 명사 앞에 쓰이는 관사)",
+                "half an hour": "30분",
+                "how": "어떻게",
+                "easy": "쉬운",
+                "difficult": "어려운",
+                "convenient": "편리한",
+                "there": "거기, 저기",
+                "very": "아주, 매우"
+              },
+              "dialog_map": {
+                "John: How do you commute to work?": "존: 당신은 어떻게 통근하세요?",
+                "Mike: I take the subway from Brooklyn to Manhattan.": "마이크: 저는 브룩클린에서 맨하탄까지 지하철을 탑니다.",
+                "John: How long does it take?": "존: 얼마나 오래 걸리나요?",
+                "Mike: It takes about half an hour.": "마이크: 30분 정도 걸립니다.",
+                "John: Is it easy to commute from there?": "존: 거기서 통근하기 쉽나요?",
+                "Mike: Yes, the subway is very convenient.": "마이크: 네, 지하철은 아주 편리합니다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "At A Restaurant",
+              "lesson_name_translated": "식당에서",
+              "vocab_map": {
+                "restaurant": "레스토랑, 식당",
+                "to eat": "먹다",
+                "to drink": "마시다",
+                "waiter": "웨이터, 남자 종업원",
+                "waitress": "웨이트리스, 여자 종업원",
+                "I would like": "~하고 싶다",
+                "to order": "주문하다",
+                "ready": "준비된",
+                "without": "~없이",
+                "can": "(조동사)~할 수 있다",
+                "could": "(can의 과거형) 정중히 물어볼때 씀",
+                "but": "하지만",
+                "sure": "확신하는, 당연한",
+                "no problem": "(부탁,질문에 대해) 괜찮아요, 그럼요",
+                "please": "(부탁할 때 덧붙이는 말) 부디, 제발",
+                "thanks": "감사합니다",
+                "food": "음식",
+                "menu": "메뉴",
+                "water": "물",
+                "beer": "맥주",
+                "wine": "와인",
+                "hamburger": "햄버거",
+                "hotdog": "핫도그",
+                "ketchup": "케찹",
+                "salad": "샐러드",
+                "chicken teriyaki": "치킨 데리야끼",
+                "rice": "밥",
+                "pizza": "피자",
+                "cuisine": "요리",
+                "Italian cuisine": "이탈리안 요리",
+                "Italian restaurant": "이탈리안 레스토랑"
+              },
+              "dialog_map": {
+                "Waiter: Hi, are you ready to order?": "종업원: 안녕하세요, 주문 할 준비가 됐나요?",
+                "Mike: Yes, can I have a hamburger, but without ketchup?": "마이크: 네, 햄버거 케찹없이 주세요.",
+                "Waiter: Would you like anything to drink?": "종업원: 마실 것이 필요하신가요?",
+                "Mike: Could I please have a glass of water?": "마이크: 물 한컵 주시겠어요?",
+                "Waiter: Sure, no problem!": "종업원: 그럼요.",
+                "Mike: Thanks.": "마이크: 감사합니다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Shopping",
+              "lesson_name_translated": "쇼핑",
+              "vocab_map": {
+                "store": "가게, 상점",
+                "department store": "백화점",
+                "to buy": "사다",
+                "to try on": "입어보다",
+                "to wear": "입다",
+                "to have": "갖다",
+                "to help": "돕다",
+                "in": "(공간, 이동) ~에",
+                "size": "사이즈, 크기",
+                "small": "작은",
+                "medium": "중간의",
+                "large": "큰",
+                "clothes": "옷",
+                "fashion": "패션",
+                "designer": "디자이너",
+                "this": "이것",
+                "that": "그것",
+                "shirt": "셔츠",
+                "pants": "바지",
+                "shoes": "신발",
+                "blouse": "블라우스",
+                "dress": "드레스, 원피스",
+                "suit": "수트, 정장",
+                "jacket": "자켓",
+                "sweater": "스웨터, 니트",
+                "blue": "파란색(의)",
+                "black": "검정색(의)",
+                "white": "흰색(의)",
+                "red": "빨간색(의)",
+                "green": "초록색(의)",
+                "I'm": "(“I am”의 줄임말) 저는",
+                "we": "우리",
+                "that's": "(“that is”의 줄임말) 그것은",
+                "only": "오직",
+                "sorry": "죄송합니다",
+                "OK": "응, 네, 좋아 ",
+                "great": "좋은, 대단한",
+                "no thank you": "아닙니다. 괜찮습니다."
+              },
+              "dialog_map": {
+                "Staff: Hi, can I help you?": "점원: 안녕하세요, 제가 도와드릴까요?",
+                "Mike: Yes, I would like to try on this shirt. Do you have it in a medium?": "마이크: 네, 이 셔츠를 입어보고 싶습니다. 중간 사이즈가 있나요?",
+                "Staff: I'm sorry, we only have that shirt in a small. But we have a blue shirt in a medium.": "점원: 죄송합니다만, 저희는 작은(스몰) 사이즈 밖에 없네요. 하지만 중간사이즈로 파란색 셔츠는 있습니다.",
+                "Mike: Oh, no thank you.": "마이크: 아, 아닙니다. 괜찮습니다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Interests",
+              "lesson_name_translated": "취미",
+              "vocab_map": {
+                "interests": "취미, 흥미",
+                "hobby": "취미",
+                "to swim": "수영하다",
+                "to ski": "스키타다",
+                "to snowboard": "스노우보드 타다",
+                "to go out": "외출하다",
+                "to go out to eat": "외식하다, 먹으러 나가다",
+                "to go out to the movies": "영화보러 나가다",
+                "to relax at home": "집에서 쉬다",
+                "to play": "연주하다",
+                "to play guitar": "기타를 치다",
+                "to cook": "요리하다",
+                "to exercise": "운동하다",
+                "to like": "좋아하다",
+                "to do": "하다",
+                "to prefer": "선호하다",
+                "weekend": "주말",
+                "weekends": "주말마다",
+                "weekday": "주중",
+                "Saturday": "토요일",
+                "usually": "보통",
+                "friends": "친구들",
+                "family": "가족",
+                "with": "~와 함께",
+                "and": "그리고",
+                "nice": "좋은"
+              },
+              "dialog_map": {
+                "Hannah: So, what do you like to do on the weekends?": "한나: 음, 당신은 주말마다 뭘 하는 것을 좋아하세요?",
+                "Mike: I usually go out to the movies with my friends on Friday night and exercise on Saturday. What do you like to do?": "마이크: 저는 보통 금요일 밤에는 친구들이랑 영화보러 나가고, 토요일에는 운동을 합니다. 당신은 무엇을 하시나요?",
+                "Hannah: I prefer to relax at home with my family.": "한나: 저는 가족과 함께 집에서 쉬는것을 선호합니다.",
+                "Mike: That's nice.": "마이크: 좋네요."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Forming A Question",
+              "lesson_name_translated": "질문 만들기",
+              "vocab_map": {
+                "question": "문제, 질문",
+                "answer": "정답",
+                "who": "누구, 누가",
+                "what": "무엇",
+                "when": "언제",
+                "where": "어디",
+                "why": "왜",
+                "which": "어떤, 어느",
+                "how": "어떻게",
+                "many": "많은",
+                "have been": "가본 적이 있다, 방문했다",
+                "5 times": "다섯번",
+                "don't": "(“do not”의 줄임말) 하지 않다",
+                "together": "같이, 함께",
+                "modern art": "현대 미술",
+                "of": "~의",
+                "to want": "원하다",
+                "favorite": "가장 좋아하는"
+              },
+              "dialog_map": {
+                "Mike: What's your favorite museum in New York City?": "마이크: 뉴욕시티에서 가장 좋아하는 박물관이 무엇입니까?",
+                "Hannah: My favorite museum is the Museum of Modern Art.": "한나: 제가 가장 좋아하는 박물관은 현대 미술 박물관 입니다.",
+                "Mike: How many times have you went?": "마이크: 몇 번이나 가보셨나요?",
+                "Hannah: I have been there 5 times. Why don't we go together?": "한나: 다섯 번 가봤습니다. 같이 가는 게 어때요?",
+                "Mike: When do you want to go?": "마이크: 언제 가고 싶으세요?",
+                "Hannah: Let's go this weekend.": "한나: 이번 주말에 갑시다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Numbers",
+              "lesson_name_translated": "숫자",
+              "vocab_map": {
+                "one": "하나",
+                "two": "둘",
+                "three": "셋",
+                "four": "넷",
+                "five": "다섯",
+                "six": "여섯",
+                "seven": "일곱",
+                "eight": "여덟",
+                "nine": "아홉",
+                "ten": "열",
+                "eleven": "열하나",
+                "twelve": "열둘",
+                "thirteen": "열셋",
+                "fourteen": "열넷",
+                "fifteen": "열다섯",
+                "sixteen": "열여섯",
+                "seventeen": "열일곱",
+                "eighteen": "열여덟",
+                "nineteen": "열아홉",
+                "twenty": "스물",
+                "twenty-one": "스물하나",
+                "twenty-two": "스물둘",
+                "twenty-three": "스물셋",
+                "twenty-four": "스물넷",
+                "twenty-five": "스물다섯",
+                "twenty-six": "스물여섯",
+                "twenty-seven": "스물일곱",
+                "twenty-eight": "스물여덟",
+                "twenty-nine": "스물아홉",
+                "thirty": "서른",
+                "forty": "마흔",
+                "fifty": "쉰",
+                "sixty": "예순",
+                "seventy": "일흔",
+                "eighty": "여든",
+                "ninety": "아흔",
+                "one-hundred": "백",
+                "one-hundred-fifty-seven": "백오십칠",
+                "two-hundred": "이백",
+                "three-hundred": "삼백",
+                "one-thousand": "천",
+                "one-thousand-two-hundred-seventy-one": "천이백칠십일",
+                "two-thousand": "이천",
+                "three-thousand": "삼천",
+                "ten-thousand": "만",
+                "eleven-thousand": "만천",
+                "twelve-thousand": "만이천",
+                "thirteen-thousand": "만삼천",
+                "one-hundred-thousand": "십만",
+                "one-million": "백만",
+                "one-billion": "십억",
+                "how much": "얼마",
+                "ticket": "티켓, 표",
+                "to cost": "비용, 가격",
+                "dollar": "달러"
+              },
+              "dialog_map": {
+                "Hannah: How much does one ticket cost?": "한나: 티켓 한 장 가격이 얼마인가요?",
+                "Staff: One ticket costs $12.": "직원: 한 장은 12달러 입니다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Dates and Times",
+              "lesson_name_translated": "날짜와 시간",
+              "vocab_map": {
+                "date": "날짜",
+                "time": "시간",
+                "minute": "분",
+                "hour": "시, 시간",
+                "day": "날, 요일",
+                "week": "주",
+                "month": "달, 월",
+                "year": "년, 연도",
+                "1995": "1995년",
+                "2010": "2010년",
+                "2000's": "2000년대",
+                "Monday": "월요일",
+                "Tuesday": "화요일",
+                "Wednesday": "수요일",
+                "Thursday": "목요일",
+                "Friday": "금요일",
+                "Saturday": "토요일",
+                "January": "1월",
+                "February": "2월",
+                "March": "3월",
+                "April": "4월",
+                "May": "5월",
+                "June": "6월",
+                "July": "7월",
+                "August": "8월",
+                "September": "9월",
+                "October": "10월",
+                "November": "11월",
+                "December": "12월",
+                "1/7/2016": "2016년 1월 7일",
+                "first": "(매 달의) 1일",
+                "second": "2일",
+                "third": "3일",
+                "fourth": "4일",
+                "fifth": "5일",
+                "sixth": "6일",
+                "seventh": "7일",
+                "eighth": "8일",
+                "ninth": "9일",
+                "tenth": "10일",
+                "eleventh": "11일",
+                "twelfth": "12일",
+                "thirteenth": "13일",
+                "fourteenth": "14일",
+                "fifteenth": "15일",
+                "sixteenth": "16일",
+                "seventeenth": "17일",
+                "eighteenth": "18일",
+                "nineteenth": "19일",
+                "twentieth": "20일",
+                "twenty-first": "21일",
+                "twenty-second": "22일",
+                "twenty-third": "23일",
+                "twenty-fourth": "24일",
+                "twenty-fifth": "25일",
+                "twenty-sixth": "26일",
+                "twenty-seventh": "27일",
+                "twenty-eighth": "28일",
+                "twenty-ninth": "29일",
+                "thirtieth": "30일",
+                "thirty-first": "31일"
+              },
+              "dialog_map": {
+                "John: Mike, what's the date?": "존: 마이크, 오늘 날짜가 뭐야?",
+                "Mike: It is Thursday, May 26th, 2016.": "마이크: 2016년 5월 26일 목요일이야.",
+                "John: Thanks.": "존: 고마워."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Scheduling An Appointment",
+              "lesson_name_translated": "약속잡기",
+              "vocab_map": {
+                "to schedule": "일정을 잡다",
+                "appointment": "약속",
+                "to schedule an appointment": "약속을 잡다",
+                "to make an appointment": "약속을 하다",
+                "before": "전에",
+                "after": "후에",
+                "during": "~동안",
+                "haircut": "이발",
+                "salon": "살롱, 미용실",
+                "barber": "이발사, 미용사",
+                "a.m.": "오전",
+                "p.m.": "오후",
+                "noon": "정오",
+                "o'clock": "정각",
+                "okay": "좋다, 알겠다, 괜찮다",
+                "spot": "장소"
+              },
+              "dialog_map": {
+                "Salon: Hello, thank you for calling Manhattan Hair.": "미용실: 안녕하세요, 맨하탄헤어에 전화주셔서 감사합니다.",
+                "Hannah: Hi, I would like to make an appointment to get my haircut tomorrow.": "한나: 안녕하세요, 내일 머리 자르기 위해 약속을 잡고 싶은데요.",
+                "Salon: Is 2 o'clock okay?": "미용실: 2시 정각 괜찮으신가요?",
+                "Hannah: Do you have something available before 1 o'clock or after 4 o'clock?": "한나: 1시 전이나 4시 이후에 가능한 시간이 있나요?",
+                "Salon: We have an open spot at noon.": "미용실: 저희는 정오에 문을 엽니다.",
+                "Hannah: Great, I'll take it.": "한나: 좋아요, 그렇게 할게요."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            }
+          ]
+        },
+        {
+          "unitname": "Unit 2: 중급 영어",
+          "unitdescription": "중급자 레벨 영어 배우기",
+          "lessons": [
+            {
+              "lesson_name_english": "Planning A Vacation",
+              "lesson_name_translated": "방학 계획 세우기",
+              "vocab_map": {
+                "vacation": "방학, 휴가",
+                "ticket": "티켓, 표",
+                "airplane": "비행기",
+                "plane ticket": "비행기 티켓",
+                "airport": "공항",
+                "departure time": "출발 시간",
+                "arrival time": "도착 시간",
+                "to reserve": "예약하다",
+                "reservation": "예약",
+                "room": "방",
+                "hotel": "호텔",
+                "front desk": "(호텔의) 프론트 데스크",
+                "guest": "손님",
+                "person": "한 사람",
+                "people": "사람들",
+                "to travel": "여행하다",
+                "to visit": "방문하다",
+                "to go sightseeing": "관광하다",
+                "confirmation email": "확인 이메일",
+                "so": "그래서",
+                "to send": "보내다",
+                "to receive": "받다",
+                "will receive": "받을 것이다",
+                "to call": "전화하다",
+                "telephone": "전화기",
+                "phone": "전화",
+                "mobile phone": "휴대폰",
+                "of course": "물론이지, 당연하지",
+                "I'd": "(“I would” 의 줄임말)",
+                "afternoon": "오후"
+              },
+              "dialog_map": {
+                "Staff: Hi, thank you for calling the New York Hotel. How can I help you?": "직원: 안녕하세요, 뉴욕 호텔에 젼화주셔서 감사합니다. 어떻게 도와드릴까요?",
+                "John: Hi, I'd like to reserve a room from May 25th to May 27th.": "존: 안녕하세요, 5월 25일부터 5월 27일까지 방을 예약하고 싶습니다.",
+                "Staff: Of course. I will transfer your call to the front desk": "직원: 물론이죠. 제가 프론트 데스크로 전화를 넘겨드리겠습니다.",
+                "John: Thank you.": "존: 감사합니다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Feeling Sick",
+              "lesson_name_translated": "아플 때",
+              "vocab_map": {
+                "sick": "아픈",
+                "to feel": "느끼다, (기분이) 들다",
+                "to hurt": "다치다",
+                "cold": "추운, 감기",
+                "flu": "독감",
+                "to catch": "걸리다",
+                "to catch a cold": "감기에 걸리다",
+                "sick day": "병가",
+                "to take a sick day": "병가를 내다",
+                "to recommend": "추천하다",
+                "hospital": "병원",
+                "doctor": "의사",
+                "doctor's office": "의원, 개인 병원",
+                "pain": "고통, 아픈",
+                "sore": "아픈, 상처",
+                "sore throat": "인후염, 인두염, 목감기",
+                "medication": "치료",
+                "pharmacy": "약국"
+              },
+              "dialog_map": {
+                "Doctor: How do you feel today?": "의사: 오늘 상태가 어떠세요?",
+                "John: I'm feeling a little sick. I have a sore throat.": "존: 조금 아픕니다. 목이 따가워요.",
+                "Doctor: Oh, your throat is red. Please go to the pharmacy and get this medication.": "의사: 목구멍이 빨갛네요. 약국에 가서 이 약을 받으세요.",
+                "John: Thanks.": "존: 감사합니다.",
+                "Doctor: I recommend taking a sick day tomorrow.": "의사: 내일 병가를 내는 것을 추천합니다."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Asking for Directions",
+              "lesson_name_translated": "방향 묻기",
+              "vocab_map": {
+                "right": "오른쪽",
+                "left": "왼쪽",
+                "to make a left": "왼쪽으로 돌다",
+                "straight": "똑바른, 직선의",
+                "straight ahead": "바로 앞에",
+                "to go straight": "똑바로 쭉 가다",
+                "back": "뒤에",
+                "in front of": "앞에",
+                "behind": "뒤에, 너머에",
+                "near": "가까운",
+                "far": "먼",
+                "by": "옆에",
+                "until": "~까지",
+                "to look for": "찾다",
+                "to be lost": "길을 잃다",
+                "excuse me": "실례합니다",
+                "map": "지도",
+                "street": "길, 거리",
+                "highway": "고속도로",
+                "to turn": "돌다",
+                "way": "길, 방법",
+                "to ask": "묻다",
+                "to ask for directions": "길을 묻다"
+              },
+              "dialog_map": {
+                "John: Excuse me, I'm looking for the Museum of Modern Art. Which way is it?": "존: 실례합니다, 현대 미술 박물관을 찾고 있습니다. 어느 길인가요?",
+                "Mike: Walk straight ahead until 53rd street, then make a left.": "마이크: 53번가까지 똑바로 가신다음, 왼쪽으로 도세요."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Describing Your Friends",
+              "lesson_name_translated": "친구 묘사하기",
+              "vocab_map": {
+                "personality": "성격",
+                "outgoing": "외향적인",
+                "introverted": "내향적인",
+                "shy": "부끄러워 하는",
+                "relaxed": "편안한",
+                "friendly": "친화적인",
+                "obnoxious": "아주 불쾌한, 기분 나쁜",
+                "annoying": "짜증나는",
+                "caring": "배려하는",
+                "young": "어린, 젊은",
+                "old": "나이 든, 늙은",
+                "younger": "더 어린",
+                "older": "더 나이가 많은",
+                "age": "나이",
+                "same": "같은",
+                "to describe": "묘사하다",
+                "to think": "생각하다"
+              },
+              "dialog_map": {
+                "John: What is Hannah like?": "존: 한나는 어때?",
+                "Mike: I think she is very friendly and outgoing.": "마이크: 내 생각에 그녀는 아주 친화적이고 외향적이야.",
+                "John: Is she younger than you?": "존: 걔가 너보다 어리니?",
+                "Mike: No, we are the same age.": "마이크: 아니, 우린 같은 나이야."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Describing Your Hometown",
+              "lesson_name_translated": "고향 묘사하기",
+              "vocab_map": {
+                "home": "집, 고향",
+                "town": "마을",
+                "hometown": "고향",
+                "city": "도시",
+                "countryside": "시골",
+                "mountains": "산, 산맥",
+                "community": "지역 사회",
+                "rural": "시골의, 지방의",
+                "urban": "도시의",
+                "suburban": "교외의",
+                "boring": "지루한",
+                "exciting": "흥미로운, 신나는",
+                "lively": "활기찬, 생기 있는",
+                "peaceful": "평화로운",
+                "small": "작은",
+                "large": "큰",
+                "because": "왜냐하면, ~때문에",
+                "wow": "(감탄사) 우와",
+                "Colorado": "(미국 서부의 주) 콜로라도",
+                "to grow up": "자라다, 성장하다",
+                "actually": "사실"
+              },
+              "dialog_map": {
+                "John: Mike, did you grow up in New York City?": "존: 마이크, 넌 뉴욕시티에서 자랐니?",
+                "Mike: No, I'm actually from a small town in Colorado.": "마이크: 아니, 난 사실 콜로라도에 있는 작은 마을에서 왔어.",
+                "John: Oh, wow. Is it beautiful in the mountains?": "존: 와, 산 주변은 아름답니?",
+                "Mike: Yes, but I prefer the city because there is more to do.": "마이크: 응, 하지만 난 도시를 더 선호해 왜냐하면 더 할 게 많거든.",
+                "John: Where do you live now?": "존: 지금은 어디 살아?",
+                "Mike: I live in Manhattan.": "마이크: 맨하탄에 살아."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "The Body and Exercise",
+              "lesson_name_translated": "신체부위와 운동",
+              "vocab_map": {
+                "head": "머리",
+                "face": "얼굴",
+                "hair": "머리카락",
+                "eyes": "눈",
+                "eyebrow": "눈썹",
+                "nose": "코",
+                "mouth": "입",
+                "lips": "입술",
+                "ears": "귀",
+                "neck": "목",
+                "shoulders": "어깨",
+                "arm": "팔",
+                "elbow": "팔꿈치",
+                "hand": "손",
+                "finger": "손가락",
+                "chest": "가슴",
+                "back": "등",
+                "knee": "무릎",
+                "foot": "발",
+                "toe": "발가락",
+                "to train": "훈련하다",
+                "strength training": "근력운동",
+                "to be in shape": "건강한, 몸이 좋은",
+                "to be out of shape": "몸매가 안좋은",
+                "gym": "체육관",
+                "marathon": "마라톤",
+                "goal": "목표"
+              },
+              "dialog_map": {
+                "Hannah: Wow, you are in good shape. Do you go to the gym?": "한나: 우와, 너 몸 좋다. 너 체육관 다니니?",
+                "Mike: Yeah, I usually go to the gym 3 times per week.": "마이크: 응, 난 보통 일주일에 3번씩 운동을 가.",
+                "Hannah: What is your goal?": "한나: 너의 목표가 뭐야?",
+                "Mike: I am training for a marathon.": "마이크: 난 마라톤을 위해 훈련하고있어."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Describing Your Goals",
+              "lesson_name_translated": "목표 묘사하기",
+              "vocab_map": {
+                "if": "만약 ~라면",
+                "could": "(가정문에서 과거형으로 쓰여) ~할 수 있다",
+                "would": "(가정문에서) ~할 것이다",
+                "should": "(가정문에서) ~해야 한다",
+                "goal": "목표",
+                "dream": "꿈",
+                "to wish": "바라다",
+                "to hope": "희망하다",
+                "anywhere": "어디든지",
+                "world": "세계",
+                "Australia": "호주",
+                "coral reef": "산호초",
+                "to surf": "서핑하다",
+                "you're": "(“you are”의 줄임말) 너는",
+                "while": "~하는 동안",
+                "idea": "아이디어, 생각",
+                "money": "돈",
+                "a lot": "많은",
+                "to make a lot of money": "돈을 많이 벌다",
+                "successful": "성공적인",
+                "to volunteer": "자원봉사하다",
+                "famous": "유명한",
+                "actor": "(남자) 배우",
+                "actress": "(여자) 배우",
+                "model": "모델"
+              },
+              "dialog_map": {
+                "Mike: If you could go anywhere in the world, where would you go on vacation?": "마이크: 만약 너가 세계 어디든지 갈 수 있다면, 넌 어디로 여행을 가겠니?",
+                "Hannah: I would go to Australia.": "한나: 난 호주를 갈거야.",
+                "Mike: What do you want to visit in Australia?": "마이크: 왜 호주를 방문하고 싶어?",
+                "Hannah: My dream is to visit the coral reefs.": "한나: 내 꿈은 산호초를 보러 가보는 거야.",
+                "Mike: You should go surfing while you're there, too.": "마이크: 너가 거기있는 동안 서핑도 하러 가는 게 좋겠다.",
+                "Hannah: Great idea!": "한나: 좋은 생각이네!"
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            },
+            {
+              "lesson_name_english": "Renting An Apartment",
+              "lesson_name_translated": "아파트 렌트하기",
+              "vocab_map": {
+                "house": "집",
+                "home": "집",
+                "living room": "거실",
+                "bedroom": "침실",
+                "master bedroom": "안방",
+                "kitchen": "부엌",
+                "bathroom": "화장실",
+                "garage": "차고",
+                "roof": "지붕",
+                "hallway": "복도",
+                "landlord": "집주인",
+                "tenant": "입주자",
+                "real estate agent": "부동산",
+                "to rent": "빌리다, 렌트하다",
+                "rent": "렌트비, 임대료",
+                "monthly": "매월의, 한달에 한 번",
+                "per": "~마다",
+                "per month": "한 달 마다",
+                "to move": "이사하다",
+                "noisy": "시끄러운",
+                "quiet": "조용한",
+                "utilities": "수도,전기,가스 등",
+                "bill": "고지서, 청구서",
+                "electricity": "전기",
+                "electric bill": "전기세 고지서",
+                "water bill": "수도세 고지서",
+                "to include": "포함하다",
+                "to look for": "찾다",
+                "something": "어떤 것",
+                "cheap": "값이 싼",
+                "expensive": "비싼"
+              },
+              "dialog_map": {
+                "Mike: How much is the monthly rent for this apartment?": "마이크: 이 아파트의 월 임대로는 얼마인가요?",
+                "Agent: It is $800 per month.": "중개인: 한 달에 800불입니다.",
+                "Mike: Are utilities included in the rent?": "마이크: 렌트비에 전기,수도,가스도 포함되어 있나요?",
+                "Agent: Water and heat are included, but the electric bill is paid by the tenant.": "중개인: 수도와 난방은 포함되어 있지만, 전기세는 입주자가 지불합니다.",
+                "Mike: Thank you, but I am looking for something cheaper.": "마이크: 감사합니다만 좀 더 싼 것을 찾고있어요."
+              },
+              "exercises": [
+                "Vocabulary Words",
+                "Reading",
+                "Pronunciation",
+                "Quiz"
+              ],
+              "exercises_translated": [
+                "어휘",
+                "읽기",
+                "발음",
+                "퀴즈"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alphabetUnitName": "알파벳",
+      "alphabetUnitDescription": "알파벳의 소리를 알아보기"
+    }
+  ]
+}
+
+

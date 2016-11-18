@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/vocabulary_section_choices_relative_layout"
+                android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+    android:layout_margin="@dimen/activity_vocabulary_lesson_choices_layout_margin">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/vocabularysectionchoices_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

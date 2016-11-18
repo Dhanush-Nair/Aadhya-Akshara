@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/fragment_alphabet_card_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingRight="@dimen/fragment_flashcard_recyclerview_paddingRight"
+        android:paddingLeft="@dimen/fragment_flashcard_recyclerview_paddingLeft"
+        android:clipToPadding="false"/>
+
+</RelativeLayout>

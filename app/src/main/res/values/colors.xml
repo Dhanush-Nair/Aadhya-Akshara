@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#53B05A</color>
+    <color name="colorPrimaryDark">#1F212A</color>
+    <color name="colorPrimaryLight">#BDBDBD</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorDividerBackground">#90CAF9</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorHeader">#FFFFFF</color>
+    <color name="textColorSecondary">#9E9E9E</color>
+    <color name="windowBackground">#292C37</color>
+    <color name="colorCompleteBackground">#B1E3B4</color>
+    <color name="cardviewCurrentItem">@color/material_grey_300</color>
+    <color name="fragmentGreyBackground">@color/material_grey_100</color>
+    <color name="indicator_unselected">@android:color/darker_gray</color>
+    <color name="statup_wizard_status_bar">@android:color/transparent</color>
+    <color name="spinner_text_color">#FFFFFF</color>
+    <color name="checkbox_button_tint">#BDBDBD</color>
+    <color name="pronunciation_textview_background">@color/material_grey_300</color>
+    <color name="rounded_button_dark">#383B43</color>
+</resources>

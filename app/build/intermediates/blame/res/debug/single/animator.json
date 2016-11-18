@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_right_out.xml",
+        "source": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\src\\main\\res\\animator\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_left_out.xml",
+        "source": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\src\\main\\res\\animator\\card_flip_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_right_in.xml",
+        "source": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\src\\main\\res\\animator\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\res\\merged\\debug\\animator\\card_flip_left_in.xml",
+        "source": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\src\\main\\res\\animator\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\res\\merged\\debug\\animator\\flip_left_in.xml",
+        "source": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\src\\main\\res\\animator\\flip_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\build\\intermediates\\res\\merged\\debug\\animator\\flip_right_out.xml",
+        "source": "C:\\Users\\Aswin\\Documents\\Aadhya Akshara\\app\\src\\main\\res\\animator\\flip_right_out.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_startup_wizard"
+          android:title="@string/settings_menu_startup_wizard"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/action_select_language"
+          android:title="@string/settings_menu_language"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+</menu>

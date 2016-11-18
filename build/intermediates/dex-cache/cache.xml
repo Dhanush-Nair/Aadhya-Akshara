@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\percent\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6e7040af4ab4aa797cbf6e6eacf94fcf241ae8f0">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-23.1.0_0e4e12c2ebe0502c2ad7c874b860607ad194f0e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_378a54556f1232cb074f55258f53301e04f21b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_1d170e612121a899eb4e8e3494d89a1b66051666.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\libs\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.5_39f0c274794bddb1a2663d9407d8b756deeb14af\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_32dfa1792bb007a733940061d82659663653f72b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_2c693ded5dd83a80f8ea9563186e28f1fc55339d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_603ae6e351fd0afbd4b8f1a44acd483f9b3ef9df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_13bd828915915c32fcdb3feb8044529147e9f9cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_fad9985999d5249beb63585cfa0d4696f667b069.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_d1be959a95c5477ba21e509fa9e32400860e0a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_2139272db40f3769f5864cf808820bc091f5f044.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_89808537da34adf0e21ac15eb103c7bf4390c598\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aswin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_13bd828915915c32fcdb3feb8044529147e9f9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\gson-2.5_e098a24255718c97c4771117cf92bff190e88506.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="94f766e40a8ba3ca7f220cc71a332d9b113ccc86">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ccfe511d59ead7a50a47fdc22d470d7790d1ee19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_714bb125178501d3de025c5639e503fcc59e45cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="120be9d492fcdfbec8ff789d4d7b77ba3d061156">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_12b86405efcdbc3fc67153dae85cca1195d13aec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_205f71cf2febb159826767a6e01f51519f1b1b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_a9bebce595667720a0df1ade27474446f2f58ae6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_89ee8bceb75bf0d5471159d0e7ae34012a688d63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Aswin\Documents\Aadhya Akshara\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_c79b2b837d7d903b6b5695d58991426afff8f123\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dhanush\Aadhya Akshara\app\build\intermediates\exploded-aar\com.android.support\percent\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6e7040af4ab4aa797cbf6e6eacf94fcf241ae8f0">
+        <dex dex="D:\Dhanush\Aadhya Akshara\app\build\intermediates\pre-dexed\debug\com.android.support-percent-23.1.0_73217f61d5bd6f087ff11ea02b282cfc9aa39565.jar" />
+    </item>
+
+</items>

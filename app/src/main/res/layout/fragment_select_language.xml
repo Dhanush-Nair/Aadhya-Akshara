@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".ui.StartupWizardActivity$SelectLanguageFragment"
+                android:background="@color/colorPrimaryDark">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/startup_wizard_select_language_prompt"
+        android:id="@+id/fragment_select_language_textView"
+        android:layout_above="@+id/fragment_select_language_spinner"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/textColorHeader"
+        android:textSize="@dimen/activity_startup_wizard_text_size"
+        />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragment_select_language_spinner"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:spinnerMode="dialog"/>
+</RelativeLayout>

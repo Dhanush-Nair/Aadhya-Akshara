@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/flashcard_relativelayout_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/flashcard_front_cardview"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="@dimen/fragment_flashcard_item_layout_width"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/fragment_flashcard_item_layout_marginBottom"
+        android:layout_marginLeft="@dimen/fragment_flashcard_item_layout_marginLeft"
+        android:layout_marginRight="@dimen/fragment_flashcard_item_layout_marginRight"
+        android:layout_marginTop="@dimen/fragment_flashcard_item_layout_marginTop"
+        android:gravity="center"
+        card_view:cardCornerRadius="@dimen/fragment_flashcard_item_cardview_cardcornerradius"
+        card_view:cardElevation="@dimen/fragment_flashcard_item_cardview_cardelevation">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+        <TextView
+            android:id="@+id/flashcard_term_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="to meet up"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/fragment_flashcard_item_letter_textview"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"/>
+
+        <ImageView
+            android:id="@+id/flashcard_flip_card_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/leap_flip_card_green_icon"
+            android:layout_below="@+id/flashcard_term_textview"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/flashcard_back_cardview"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="@dimen/fragment_flashcard_item_layout_width"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/fragment_flashcard_item_layout_marginBottom"
+        android:layout_marginLeft="@dimen/fragment_flashcard_item_layout_marginLeft"
+        android:layout_marginRight="@dimen/fragment_flashcard_item_layout_marginRight"
+        android:layout_marginTop="@dimen/fragment_flashcard_item_layout_marginTop"
+        android:gravity="center"
+        card_view:cardCornerRadius="@dimen/fragment_flashcard_item_cardview_cardcornerradius"
+        card_view:cardElevation="@dimen/fragment_flashcard_item_cardview_cardelevation">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/flashcard_back_relativelayout_top"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:id="@+id/flashcard_back_imageButton_speaker"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/leap_speaker_icon"
+                    android:background="@android:color/transparent"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_margin="@dimen/fragment_flashcard_item_icon_margin"/>
+
+                <ImageView
+                    android:id="@+id/flashcard_back_imageview_flip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/leap_flip_card_grey_icon"
+                    android:background="@android:color/transparent"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="@dimen/fragment_flashcard_item_icon_margin"/>
+
+                <TextView
+                    android:id="@+id/flashcard_back_term_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="Aa"
+                    android:textColor="@color/material_grey_300"
+                    android:textSize="@dimen/fragment_flashcard_item_letter_textview"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/flashcard_back_relativelayout_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/material_grey_300"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingLeft="@dimen/flashcard_back_relativelayout_bottom_padding_left_right"
+                android:paddingRight="@dimen/flashcard_back_relativelayout_bottom_padding_left_right">
+
+                <TextView
+                    android:id="@+id/flashcard_back_definition_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="/a/, /e/, /ae/ nice to meet you definition"
+                    android:textSize="@dimen/fragment_flashcard_item_ipa_textview"
+                    android:textColor="@android:color/black"
+                    android:gravity="center"
+                    android:layout_centerHorizontal="true"/>
+
+                <TextView
+                    android:id="@+id/flashcard_back_transliteration_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="あ"
+                    android:textSize="@dimen/fragment_flashcard_item_ipa_textview"
+                    android:textColor="@android:color/black"
+                    android:layout_below="@+id/flashcard_back_definition_textview"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/fragment_flashcard_item_back_transliteration_textview_margin_top"
+                    android:gravity="center"/>
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
+

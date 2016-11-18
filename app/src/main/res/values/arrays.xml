@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_language_array" translatable="false">
+        <item>한국어</item>
+    </string-array>
+</resources>

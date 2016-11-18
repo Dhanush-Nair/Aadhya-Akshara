@@ -1,0 +1,94 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- StartupWizardActivity-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_padding_top_bottom">8dp</dimen>
+
+    <!-- Alphabet List Item, Reading Item, Vocabulary Lesson Choices Item, Vocab Words Item -->
+    <dimen name="fragment_relativelayout_padding_bottom">16dp</dimen>
+    <dimen name="fragment_relativelayout_padding_left">16dp</dimen>
+    <dimen name="fragment_relativelayout_padding_right">16dp</dimen>
+    <dimen name="fragment_relativelayout_padding_top">16dp</dimen>
+    <dimen name="primary_text">20sp</dimen>
+    <dimen name="secondary_grey_text">14sp</dimen>
+
+    <!-- Exercise Card in Vocabulary Lesson Main Content -->
+    <dimen name="exercise_item_textSize">16sp</dimen>
+    <dimen name="exercise_card_vertical_line_margin">12dp</dimen>
+    <dimen name="exercise_card_current_exercise_icon_margin_right">12dp</dimen>
+    <dimen name="exercise_card_status_icon_container_margin_right">12dp</dimen>
+
+    <!-- Flashcard Item: VocabWordsFragment and AlphabetActivity -->
+    <dimen name="fragment_flashcard_item_layout_marginLeft">8dp</dimen>
+    <dimen name="fragment_flashcard_item_layout_marginTop">16dp</dimen>
+    <dimen name="fragment_flashcard_item_layout_marginRight">8dp</dimen>
+    <dimen name="fragment_flashcard_item_layout_marginBottom">16dp</dimen>
+    <dimen name="fragment_flashcard_item_layout_width">275dp</dimen>
+    <dimen name="fragment_flashcard_item_letter_textview">128sp</dimen>
+    <dimen name="fragment_flashcard_item_ipa_textview">28sp</dimen>
+    <dimen name="fragment_flashcard_item_cardview_cardcornerradius">2dp</dimen>
+    <dimen name="fragment_flashcard_item_cardview_cardelevation">4dp</dimen>
+    <dimen name="fragment_flashcard_item_icon_margin">12dp</dimen>
+    <dimen name="fragment_flashcard_item_back_transliteration_textview_margin_top">12dp</dimen>
+
+    <!-- StartupWizard Margin Between Indicators -->
+    <dimen name="activity_startup_wizard_indicator_layout_margin">2dp</dimen>
+
+    <!-- StartupWizard and SelectLanguage text size-->
+    <dimen name="activity_startup_wizard_text_size">16sp</dimen>
+
+    <!-- Bottom margin for recyclerview linearlayout list items in Alphabet List and VocabularyLessonChoices -->
+    <dimen name="fragment_recyclerview_list_item_margin_bottom">1dp</dimen>
+    <dimen name="card_layout_margin_bottom_flat">1dp</dimen>
+    <dimen name="card_corner_radius_flat">0dp</dimen>
+
+    <!-- Flat Cardview Elevation: MainActivity, AlphabetActivity List Item, PronunciationNestedFragment Item, QuizNestedFragment Item, VocabularyLessonChoices List Item -->
+    <dimen name="card_elevation_flat">0dp</dimen>
+
+    <!-- VocabularyLessonChoices-->
+    <dimen name="activity_vocabulary_lesson_choices_layout_margin">8dp</dimen>
+
+    <!-- QuizNestedFragment and PronunciationNestedFragment Item Margin -->
+    <dimen name="fragment_quiz_nested_button_left_right_margin">12dp</dimen>
+    <dimen name="fragment_quiz_nested_button_container_margin_top">12dp</dimen>
+
+    <!-- QuizNestedFragment -->
+    <dimen name="quiz_answer_text">16sp</dimen>
+    <dimen name="fragment_quiz_nested_edittext_padding_top_bottom">12dp</dimen>
+    <dimen name="fragment_quiz_nested_edittext_padding_left_right">6dp</dimen>
+    <dimen name="fragment_quiz_nested_edittext_margin_left_right">36dp</dimen>
+    <dimen name="fragment_quiz_nested_question_textview_margin_top_bottom">6dp</dimen>
+    <dimen name="fragment_quiz_nested_question_textview_margin_left_right">36dp</dimen>
+    <dimen name="fragment_quiz_nested_question_textsize">24sp</dimen>
+    <dimen name="fragment_quiz_nested_question_number_textsize">16sp</dimen>
+    <dimen name="activity_main_card_item_layout_height">200dp</dimen>
+
+    <!-- Main Activity Card Item -->
+    <dimen name="activity_main_card_item_marginTop">8dp</dimen>
+    <dimen name="activity_main_card_item_marginBottom">8dp</dimen>
+
+    <dimen name="activity_main_card_item_cardCornerRadius">6dp</dimen>
+    <dimen name="activity_main_card_item_unit_icon_layout_width">48dp</dimen>
+    <dimen name="activity_main_card_item_unit_icon_layout_height">48dp</dimen>
+    <dimen name="activity_main_card_item_title_text">24sp</dimen>
+    <dimen name="activity_main_card_item_description_paddingBottom">8dp</dimen>
+    <dimen name="activity_main_card_item_description_paddingTop">8dp</dimen>
+    <dimen name="activity_main_card_item_description_text">16sp</dimen>
+    <dimen name="activity_main_card_item_arrow_icon_layout_width">36dp</dimen>
+    <dimen name="activity_main_card_item_arrow_icon_layout_height">36dp</dimen>
+    <dimen name="activity_main_card_item_vertical_line_layout_width">6dp</dimen>
+    <dimen name="fragment_alphabet_handwriting_choices_recyclerview_paddingTop">8dp</dimen>
+    <dimen name="fragment_alphabet_handwriting_choices_recyclerview_paddingBottom">8dp</dimen>
+    <dimen name="fragment_alphabet_handwriting_choices_item_margin">8dp</dimen>
+    <dimen name="fragment_alphabet_handwriting_choices_item_cardCornerRadius">2dp</dimen>
+    <dimen name="fragment_alphabet_handwriting_choices_item_cardElevation">2dp</dimen>
+    <dimen name="fragment_alphabet_handwriting_choices_item_textview_padding">4dp</dimen>
+    <dimen name="fragment_alphabet_handwriting_choices_item_text">32sp</dimen>
+    <dimen name="fragment_alphabet_handwriting_choices_item_horizontal_line_layout_height">2dp
+    </dimen>
+    <dimen name="fragment_flashcard_recyclerview_paddingRight">8dp</dimen>
+    <dimen name="fragment_flashcard_recyclerview_paddingLeft">8dp</dimen>
+    <dimen name="flashcard_back_relativelayout_bottom_padding_left_right">8dp</dimen>
+    <dimen name="fragment_quiz_nested_cardview_layout_height">146dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

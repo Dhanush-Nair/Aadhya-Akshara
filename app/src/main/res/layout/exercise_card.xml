@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:card_view="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/exercise_cardview"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="156dp">
+
+        <RelativeLayout
+            android:id="@+id/exercise_cardview_relativelayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+
+
+            <TextView
+                android:id="@+id/exercise_card_title_translated"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/exercise_card_title_english"
+                android:layout_alignLeft="@+id/exercise_card_title_english"
+                android:layout_alignStart="@+id/exercise_card_title_english"
+                tools:text="Exercise Title"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="@dimen/exercise_item_textSize"
+                />
+
+            <TextView
+                android:id="@+id/exercise_card_title_english"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/exercise_card_start_button"
+                android:layout_alignStart="@+id/exercise_card_start_button"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="6dp"
+                android:layout_marginTop="6dp"
+                tools:text="Exercise Title English"
+                android:textColor="@color/textColorSecondary"
+                android:textSize="12sp"
+                android:textStyle="italic"/>
+
+            <Button
+                android:id="@+id/exercise_card_start_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/exercise_card_title_english"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:text="@string/activity_exercise_item_button_title"
+                android:background="@drawable/rounded_button_primary_light"
+                android:minHeight="36dp"
+                android:textColor="@android:color/white"
+                android:minWidth="120dp"
+                android:textSize="12dp"/>
+
+            <ImageView
+                android:id="@+id/exercise_card_current_exercise_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/exercise_card_title_translated"
+                android:layout_toLeftOf="@+id/exercise_card_title_translated"
+                android:layout_toStartOf="@+id/exercise_card_title_translated"
+                android:src="@drawable/leap_pronunciation_icon"
+                android:layout_marginRight="@dimen/exercise_card_current_exercise_icon_margin_right"/>
+
+
+
+            <RelativeLayout
+                android:id="@+id/exercise_card_vertical_line_top_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_above="@+id/exercise_card_status_icon_container"
+                android:layout_alignLeft="@+id/exercise_card_status_icon_container"
+                android:layout_alignRight="@+id/exercise_card_status_icon_container"
+                android:layout_marginBottom="@dimen/exercise_card_vertical_line_margin">
+
+                <View
+                    android:id="@+id/exercise_card_vertical_line_top"
+                    android:layout_width="1dp"
+                    android:layout_height="fill_parent"
+                    android:layout_centerHorizontal="true"
+                    android:background="@color/colorPrimaryLight"/>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/exercise_card_status_icon_container"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_alignTop="@+id/exercise_card_title_translated"
+                android:layout_toStartOf="@+id/exercise_card_current_exercise_icon"
+                android:layout_toLeftOf="@+id/exercise_card_current_exercise_icon"
+                android:layout_marginRight="@dimen/exercise_card_status_icon_container_margin_right"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/exercise_card_status_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/circle_status_icon"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/exercise_card_vertical_line_bottom_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/exercise_card_status_icon_container"
+                android:layout_alignLeft="@+id/exercise_card_status_icon_container"
+                android:layout_alignRight="@+id/exercise_card_status_icon_container"
+                android:layout_alignEnd="@+id/exercise_card_status_icon_container"
+                android:layout_marginTop="@dimen/exercise_card_vertical_line_margin">
+
+                <View
+                    android:id="@+id/exercise_card_vertical_line_bottom"
+                    android:layout_width="1dp"
+                    android:layout_height="fill_parent"
+                    android:layout_centerHorizontal="true"
+                    android:background="@color/colorPrimaryLight"
+                    />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/exercise_card_high_score_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_margin="6dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                tools:text="High Score = 100%"/>
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+
+
+
+
+

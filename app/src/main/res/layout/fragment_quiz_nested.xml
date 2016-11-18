@@ -1,0 +1,124 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:gravity="center"
+                android:fitsSystemWindows="true"
+                tools:context=".ui.QuizNestedFragment">
+
+    <LinearLayout
+        android:id="@+id/fragment_quiz_nested_button_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/fragment_quiz_nested_cardview"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/fragment_quiz_nested_button_container_margin_top"
+        android:layout_gravity="center">
+
+
+    <Button
+        android:id="@+id/fragment_quiz_nested_not_sure_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz_not_sure_button"
+        android:background="@drawable/rounded_button_dark"
+        android:textColor="@android:color/white"
+        android:minHeight="48dp"
+        android:layout_marginRight="@dimen/fragment_quiz_nested_button_left_right_margin"
+        android:minWidth="124dp"
+        android:textSize="12sp"/>
+
+    <Button
+        android:id="@+id/fragment_quiz_nested_restart_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz_restart_button"
+        android:background="@drawable/rounded_button_dark"
+        android:textColor="@android:color/white"
+        android:minHeight="48dp"
+        android:layout_marginLeft="@dimen/fragment_quiz_nested_button_left_right_margin"
+        android:minWidth="124dp"
+        android:textSize="12sp"/>
+
+    </LinearLayout>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/fragment_quiz_nested_cardview"
+        card_view:cardCornerRadius="6dp"
+        card_view:cardElevation="@dimen/card_elevation_flat"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fragment_quiz_nested_cardview_layout_height"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="6dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="6dp"
+        android:layout_gravity="center">
+
+        <View
+            android:id="@+id/fragment_quiz_nested_card_vertical_line"
+            android:layout_width="6dp"
+            android:layout_height="fill_parent"
+            android:background="@color/colorPrimary"/>
+
+        <LinearLayout
+            android:id="@+id/fragment_quiz_nested_content_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <TextView
+                android:id="@+id/fragment_quiz_nested_question_number_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/textColorSecondary"
+                android:textSize="@dimen/fragment_quiz_nested_question_number_textsize"
+                tools:text="Question 1 of 12"/>
+
+            <TextView
+                android:id="@+id/fragment_quiz_nested_question_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/fragment_quiz_nested_question_textview_margin_left_right"
+                android:layout_marginRight="@dimen/fragment_quiz_nested_question_textview_margin_left_right"
+                android:layout_marginTop="@dimen/fragment_quiz_nested_question_textview_margin_top_bottom"
+                android:layout_marginBottom="@dimen/fragment_quiz_nested_question_textview_margin_top_bottom"
+                android:gravity="center"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="@dimen/fragment_quiz_nested_question_textsize"
+                tools:text="This is the quiz question"/>
+
+            <EditText
+                android:id="@+id/fragment_quiz_nested_editText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/fragment_quiz_nested_edittext_margin_left_right"
+                android:layout_marginRight="@dimen/fragment_quiz_nested_edittext_margin_left_right"
+                android:gravity="center"
+                android:hint="@string/quiz_editText_hint"
+                android:imeOptions="actionDone"
+                android:inputType="text"
+                android:paddingBottom="@dimen/fragment_quiz_nested_edittext_padding_top_bottom"
+                android:paddingLeft="@dimen/fragment_quiz_nested_edittext_padding_left_right"
+                android:paddingRight="@dimen/fragment_quiz_nested_edittext_padding_left_right"
+                android:paddingTop="@dimen/fragment_quiz_nested_edittext_padding_top_bottom"
+                android:singleLine="true"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="@dimen/quiz_answer_text"
+                tools:text="This is the quiz answer"
+                android:background="@color/pronunciation_textview_background">
+                <requestFocus/>
+            </EditText>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

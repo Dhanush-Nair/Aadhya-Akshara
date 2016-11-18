@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".ui.HandwritingFragment">
+
+    <TextView
+        android:id="@+id/fragment_handwriting_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="A"
+        android:textColor="#C0C0C0"
+        android:textSize="200sp"
+        android:layout_centerInParent="true"/>
+
+    <!-- SimpleDrawingView overlays TextView. This will allow user to draw. -->
+    <com.leapsoftware.leap.utils.SimpleDrawingView
+        android:id="@+id/handwriting_fragment_simpledrawingview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+       />
+
+    <Button
+        android:id="@+id/fragment_handwriting_erase_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Erase"
+        android:background="@drawable/rounded_button_primary_light"
+        android:textColor="@android:color/white"
+        android:minHeight="48dp"
+        android:layout_margin="16dp"
+        android:minWidth="124dp"
+        android:textSize="12sp"/>
+
+</RelativeLayout>
